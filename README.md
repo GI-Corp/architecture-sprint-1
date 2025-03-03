@@ -50,4 +50,4 @@
 # Второе задание
 
 Ссылка на схему draw.io:
-
+https://drive.google.com/file/d/1BeIaDBPPpBE-Hkvem63FOes8fJ7RYwD9/view?usp=drive_link
